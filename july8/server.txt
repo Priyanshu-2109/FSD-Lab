@@ -1,0 +1,14 @@
+nodejs?
+modules?
+3 type of modules   
+
+core module
+http,fs,path etc
+
+ local module
+ we acn create custom modules
+ export module.export
+
+third party module
+download from internet
+npmjs.com
